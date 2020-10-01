@@ -7,7 +7,7 @@ def run_guessing_game
   
   if input == rando
     puts "You guessed the correct number!"
-  else if rando.to_s
+  else if input == rando.to_s
     puts "Sorry! The computer guessed #{rando}."
   else 
     puts "Goodbye!"
