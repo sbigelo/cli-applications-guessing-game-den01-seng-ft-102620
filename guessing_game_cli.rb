@@ -5,12 +5,12 @@ def run_guessing_game
   puts "Guess a number between 1 and 6."
   get.chomp 
   
-  if input == random number 
-    puts "You guessed the correct number!"
-  else if input != random number 
-    puts "The computer guessed #{number}."
-  else input == "exit"
-    puts "Goodbye!"
+  # if input == random number 
+  #   puts "You guessed the correct number!"
+  # else if input != random number 
+  #   puts "The computer guessed #{number}."
+  # else input == "exit"
+  #   puts "Goodbye!"
     
 end
 
