@@ -5,8 +5,11 @@ def run_guessing_game
   get.chomp 
   
   if input == random number 
-  
-  
+    puts "You guessed the correct number!"
+  else if input != random number 
+    
+  else 
+    
 end
 
 
